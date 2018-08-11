@@ -13,7 +13,7 @@ import "awesomplete";
 import "awesomplete/awesomplete.css";
 
 import perspective from "@jpmorganchase/perspective/src/js/perspective.parallel.js";
-import {bindTemplate, json_attribute, array_attribute, copy_to_clipboard} from "./utils.js";
+import {bindTemplate, json_attribute, array_attribute, copy_to_clipboard, get_text_width} from "./utils.js";
 
 import template from "../html/view.html";
 
