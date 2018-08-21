@@ -1,0 +1,15 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "Openfin Issue Repro",
+        "description": "OpenFin Issue Repro",
+        "url": "https://unpkg.com/@jpmorganchase/perspective-examples@0.1.18/build/streaming.html",
+        "uuid": "Openfin-Issue-Repro",
+        "autoShow": true
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "8.56.30.55"
+    },
+    "shortcut": {}
+}

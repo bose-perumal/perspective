@@ -1,0 +1,13 @@
+{
+  "name": "openfin-v8-issue",
+  "version": "1.0.0",
+  "description": "OpenFin v8.56.30.55 Issue Test",
+  "scripts": {
+    "openfin": "openfin -l -c app.json"
+  },
+  "dependencies": {
+    "openfin-cli": "^1.1.6"
+  },
+  "author": "Neil Slinger",
+  "license": "Apache-2.0"
+}
